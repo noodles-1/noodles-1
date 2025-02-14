@@ -1,0 +1,19 @@
+.projects {
+    margin-top: 60px;
+}
+
+.projects h1 {
+    color: cadetblue;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+img {
+    height: 200px;
+}
+
+.projects ul li {
+    margin-bottom: 50px;
+}

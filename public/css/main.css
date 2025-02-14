@@ -1,0 +1,17 @@
+:root {
+    background-color: #141414;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    max-width: 900px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.name {
+    font-size: 5rem;
+    color: cyan;
+}
